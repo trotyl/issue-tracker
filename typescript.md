@@ -17,15 +17,39 @@ Links:
 + [Covariance / Contravariance Annotations](https://github.com/Microsoft/TypeScript/issues/1394): Original problem
 + [Proposal: covariance and contravariance generic type arguments annotations](https://github.com/Microsoft/TypeScript/issues/10717): Proposal in detail
 + [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Added to backlog
-+ [Variance error not caught by the type system](https://github.com/Microsoft/TypeScript/issues/14524): Array generics
 + [Unavoidable Type System Design limitation?](https://github.com/Microsoft/TypeScript/issues/14656): Union type with generics
-+ [No compile time error when passing wrong function object type](https://github.com/Microsoft/TypeScript/issues/14964): Function type variance
-+ [allow a flag that turns off covariant parameters when checking function assignability](https://github.com/Microsoft/TypeScript/issues/6102)
 + [add `in`, `out` modifiers to allow being specific of expected contrvariant/covariant type parameters](https://github.com/Microsoft/TypeScript/issues/8137): Duplicated proposal
 
 External Resources:
 
 + [Covariance and contravariance (computer science)](https://en.wikipedia.org/wiki/Covariance_and_contravariance_(computer_science))
+
+### Type Inference
+
+Title in Chinese: 类型推理
+
+Links:
+
++ [Always use literal types](https://github.com/Microsoft/TypeScript/pull/10676): Determine type from expression, difference between let and const
++ [Non-widening explicit literal types](https://github.com/Microsoft/TypeScript/pull/11126)
+
+### Nullable Typing
+
+Links:
+
++ [Non-nullable types](https://github.com/Microsoft/TypeScript/pull/7140): PR for the feature
++ [[Request for feedback] Nullable types, `null` and `undefined`](https://github.com/Microsoft/TypeScript/issues/7426): Official discussion
++ [Design Meeting Notes for 3/11/2016](https://github.com/Microsoft/TypeScript/issues/7488): Mentioned about non-nullable types
+
+### Module System
+
+Links:
+
++ [Built-in support for UMD module definitions](https://github.com/Microsoft/TypeScript/issues/7125): Officially raised problem
++ [UMD support](https://github.com/Microsoft/TypeScript/pull/7264): PR for the feature
++ [Library include directives](https://github.com/Microsoft/TypeScript/issues/7156): Officially raised problem
++ [Support reference library directives in tsc](https://github.com/Microsoft/TypeScript/pull/7263): PR for the feature
++ [Design Meeting Notes for 3/11/2016](https://github.com/Microsoft/TypeScript/issues/7488): Mentioned about UMD module support and library include directives
 
 
 ## Problems
@@ -34,7 +58,18 @@ External Resources:
 
 Title in Chinese: 类型安全
 
+Links:
+
 + [Variance error not caught by the type system](https://github.com/Microsoft/TypeScript/issues/14524): Array generics
 + [No compile time error when passing wrong function object type](https://github.com/Microsoft/TypeScript/issues/14964): Function type variance
 + [allow a flag that turns off covariant parameters when checking function assignability](https://github.com/Microsoft/TypeScript/issues/6102)
 + [Functions passed as an argument to other functions are not type checked as expected](https://github.com/Microsoft/TypeScript/issues/6333): String allowed as object
+
+### React Typing
+
+Links: 
+
++ [Sub-type type](https://github.com/Microsoft/TypeScript/issues/6218): Solved by partial type
++ [React.d.ts type constrained definition for React.Component's setState method](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/7987): Solved by partial type
++ [Support Pick<> on setState now that TS 2.1 is out](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/13155)
++ [More accurate typing of Object.assign and React component setState()](https://github.com/Microsoft/TypeScript/issues/6613): Solved by partial type
