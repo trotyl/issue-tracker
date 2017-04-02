@@ -51,6 +51,14 @@ Links:
 + [Support reference library directives in tsc](https://github.com/Microsoft/TypeScript/pull/7263): PR for the feature
 + [Design Meeting Notes for 3/11/2016](https://github.com/Microsoft/TypeScript/issues/7488): Mentioned about UMD module support and library include directives
 
+### Compatability
+
+Links:
+
++ [Start using ES5 functionality in tsc](https://github.com/Microsoft/TypeScript/issues/10125): Drop support for ES3
++ [Breaking Change: Running TypeScript on ES3 hosts no longer supported](https://github.com/Microsoft/TypeScript/issues/10278): Duplicated announcement
++ [Add compiler option to parse in strict mode](https://github.com/Microsoft/TypeScript/issues/10758)
+
 
 ## Problems
 
@@ -64,6 +72,29 @@ Links:
 + [No compile time error when passing wrong function object type](https://github.com/Microsoft/TypeScript/issues/14964): Function type variance
 + [allow a flag that turns off covariant parameters when checking function assignability](https://github.com/Microsoft/TypeScript/issues/6102)
 + [Functions passed as an argument to other functions are not type checked as expected](https://github.com/Microsoft/TypeScript/issues/6333): String allowed as object
++ [--strictNullChecks does not gaurd against optional arguments assignment](https://github.com/Microsoft/TypeScript/issues/9450): Can be solved by variance
++ [No compile error with Object.assign](https://github.com/Microsoft/TypeScript/issues/6689): Type merge
++ [Allow `super` constrains for type parameters](https://github.com/Microsoft/TypeScript/issues/7265)
+
+### Type Inference
+
+Links:
+
++ [Should not widen in type argument inference](https://github.com/Microsoft/TypeScript/issues/1436)
++ [Literal type not inferred correctly when using generics](https://github.com/Microsoft/TypeScript/issues/10685)
+
+### Nullable Typing
+
+Links:
+
++ [Guidelines for choosing between `null` and `undefined` with `strictNullChecks`](https://github.com/Microsoft/TypeScript/issues/9653)
+
+### Compatability
+
+Links:
+
++ [Allow to run TypeScript (Compiler, Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/9449)
++ [Allow to run TypeScript (Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/10755)
 
 ### React Typing
 
@@ -73,3 +104,6 @@ Links:
 + [React.d.ts type constrained definition for React.Component's setState method](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/7987): Solved by partial type
 + [Support Pick<> on setState now that TS 2.1 is out](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/13155)
 + [More accurate typing of Object.assign and React component setState()](https://github.com/Microsoft/TypeScript/issues/6613): Solved by partial type
++ [Subset types for easier updating of immutable structures](https://github.com/Microsoft/TypeScript/issues/10803)
++ [For a given type, derive a new type where all the properties specified in the original type are optional](https://github.com/Microsoft/TypeScript/issues/7355): Solved by partial type
+
