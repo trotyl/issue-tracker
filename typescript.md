@@ -4,6 +4,12 @@ Collection of github issues and other documents for quick access.
 
 ## Syntax
 
+### Generator
+
+Problems:
+
++ ~~[ES6 Generator support](https://github.com/Microsoft/TypeScript/issues/1564)~~: Feature request; solved by generator support in 2.3
+
 ## Semantics
 
 ### Strict Mode
@@ -15,9 +21,9 @@ Links:
 
 Problems:
 
-+ ~~[How do I enable strict mode in TypeScript?](https://github.com/Microsoft/TypeScript/issues/4270)~~: Puzzle; solved by `alwaysStrict` compiler option
-+ ~~[Suggestion: Add a "forceStrictMode" compiler option](https://github.com/Microsoft/TypeScript/issues/7209)~~: Feature request; solved by `alwaysStrict` compiler option
-+ ~~[Warn when a subset of input files have "use strict" with --outFile](https://github.com/Microsoft/TypeScript/issues/11464)~~: Puzzle; solved by `alwaysStrict` compiler option
++ ~~[How do I enable strict mode in TypeScript?](https://github.com/Microsoft/TypeScript/issues/4270)~~: Puzzle; solved by `alwaysStrict` compiler option in 2.3
++ ~~[Suggestion: Add a "forceStrictMode" compiler option](https://github.com/Microsoft/TypeScript/issues/7209)~~: Feature request; solved by `alwaysStrict` compiler option in 2.3
++ ~~[Warn when a subset of input files have "use strict" with --outFile](https://github.com/Microsoft/TypeScript/issues/11464)~~: Puzzle; solved by `alwaysStrict` compiler option in 2.3
 
 
 ## Type System
@@ -78,10 +84,8 @@ Links:
 + [Non-nullable types](https://github.com/Microsoft/TypeScript/pull/7140): Pull request
 + [[Request for feedback] Nullable types, `null` and `undefined`](https://github.com/Microsoft/TypeScript/issues/7426): Official discussion
 + [Design Meeting Notes for 3/11/2016](https://github.com/Microsoft/TypeScript/issues/7488): Mentioned about non-nullable types
-
-Problems:
-
 + [Guidelines for choosing between `null` and `undefined` with `strictNullChecks`](https://github.com/Microsoft/TypeScript/issues/9653): Official tracker
+
 
 ### Spread/Rest Types
 
@@ -117,8 +121,8 @@ Links:
 
 Problems:
 
-+ ~~[Allow to run TypeScript (Compiler, Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/9449)~~: Bug; fixed
-+ ~~[Allow to run TypeScript (Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/10755)~~: Bug; fixed
++ ~~[Allow to run TypeScript (Compiler, Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/9449)~~: Bug; fixed in 2.0
++ ~~[Allow to run TypeScript (Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/10755)~~: Bug; fixed in 2.1
 
 
 ## Problems
