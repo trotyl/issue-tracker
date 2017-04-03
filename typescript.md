@@ -15,7 +15,7 @@ Links:
 
 Problems:
 
-+ ~~[How do I enable strict mode in TypeScript?](https://github.com/Microsoft/TypeScript/issues/4270)~~: Solved by `alwaysStrict` compiler option
++ ~~[How do I enable strict mode in TypeScript?](https://github.com/Microsoft/TypeScript/issues/4270)~~: Puzzle; solved by `alwaysStrict` compiler option
 + ~~[Suggestion: Add a "forceStrictMode" compiler option](https://github.com/Microsoft/TypeScript/issues/7209)~~: Feature request; solved by `alwaysStrict` compiler option
 
 
@@ -39,11 +39,11 @@ External Resources:
 
 Problems:
 
-+ [Variance error not caught by the type system](https://github.com/Microsoft/TypeScript/issues/14524): Array generics
-+ [No compile time error when passing wrong function object type](https://github.com/Microsoft/TypeScript/issues/14964): Function type variance
++ [Variance error not caught by the type system](https://github.com/Microsoft/TypeScript/issues/14524): Puzzle; about array generics
++ [No compile time error when passing wrong function object type](https://github.com/Microsoft/TypeScript/issues/14964): Puzzle; about function type variance
 + [allow a flag that turns off covariant parameters when checking function assignability](https://github.com/Microsoft/TypeScript/issues/6102)
-+ [Functions passed as an argument to other functions are not type checked as expected](https://github.com/Microsoft/TypeScript/issues/6333): String allowed as object
-+ [--strictNullChecks does not gaurd against optional arguments assignment](https://github.com/Microsoft/TypeScript/issues/9450): Can be solved by variance
++ [Functions passed as an argument to other functions are not type checked as expected](https://github.com/Microsoft/TypeScript/issues/6333): Puzzle; about string allowed as object
++ [--strictNullChecks does not gaurd against optional arguments assignment](https://github.com/Microsoft/TypeScript/issues/9450): Puzzle
 
 ### Type Inference
 
