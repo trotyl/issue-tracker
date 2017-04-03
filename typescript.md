@@ -10,13 +10,14 @@ Collection of github issues and other documents for quick access.
 
 Links:
 
-+ [Add compiler option to parse in strict mode](https://github.com/Microsoft/TypeScript/issues/10758): Officially raised problem
++ [Add compiler option to parse in strict mode](https://github.com/Microsoft/TypeScript/issues/10758): Official tracker
 + [Fix #10758 Add compiler option to parse in strict mode](https://github.com/Microsoft/TypeScript/pull/11473): Pull request; introducing `alwaysStrict` compiler option
 
 Problems:
 
 + ~~[How do I enable strict mode in TypeScript?](https://github.com/Microsoft/TypeScript/issues/4270)~~: Puzzle; solved by `alwaysStrict` compiler option
 + ~~[Suggestion: Add a "forceStrictMode" compiler option](https://github.com/Microsoft/TypeScript/issues/7209)~~: Feature request; solved by `alwaysStrict` compiler option
++ ~~[Warn when a subset of input files have "use strict" with --outFile](https://github.com/Microsoft/TypeScript/issues/11464)~~: Puzzile; solved by `alwaysStrict` compiler option
 
 
 ## Type System
@@ -27,11 +28,11 @@ Description: TODO
 
 Links:
 
-+ [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Added to backlog
++ [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Design notes
 
 External Resources:
 
-+ [Covariance and contravariance (computer science)](https://en.wikipedia.org/wiki/Covariance_and_contravariance_(computer_science))
++ [Covariance and contravariance (computer science)](https://en.wikipedia.org/wiki/Covariance_and_contravariance_(computer_science)): Wiki
 
 Problems:
 
@@ -80,13 +81,19 @@ Links:
 
 Problems:
 
-+ [Guidelines for choosing between `null` and `undefined` with `strictNullChecks`](https://github.com/Microsoft/TypeScript/issues/9653)
++ [Guidelines for choosing between `null` and `undefined` with `strictNullChecks`](https://github.com/Microsoft/TypeScript/issues/9653): Official tracker
+
+### Spread/Rest Types
+
+Links:
+
++ [Add spread/rest types to support proposed object spread/rest](https://github.com/Microsoft/TypeScript/issues/10727): Official tracker
 
 ## Module System
 
 Links:
 
-+ [Built-in support for UMD module definitions](https://github.com/Microsoft/TypeScript/issues/7125): Officially raised problem
++ [Built-in support for UMD module definitions](https://github.com/Microsoft/TypeScript/issues/7125): Official tracker
 + [UMD support](https://github.com/Microsoft/TypeScript/pull/7264): Pull request
 + [Library include directives](https://github.com/Microsoft/TypeScript/issues/7156): Officially raised problem
 + [Support reference library directives in tsc](https://github.com/Microsoft/TypeScript/pull/7263): PR for the feature
