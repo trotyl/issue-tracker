@@ -12,6 +12,10 @@ Links:
 
 + [Add compiler option to parse in strict mode](https://github.com/Microsoft/TypeScript/issues/10758)
 
+Problems:
+
++ [How do I enable strict mode in TypeScript?](https://github.com/Microsoft/TypeScript/issues/4270): Solved by `alwaysStrict` option
+
 ## Type System
 
 ### Variance / Covariance / Contravariance / Bivariance
