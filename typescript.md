@@ -11,12 +11,12 @@ Collection of github issues and other documents for quick access.
 Links:
 
 + [Add compiler option to parse in strict mode](https://github.com/Microsoft/TypeScript/issues/10758): Officially raised problem
-+ [Fix #10758 Add compiler option to parse in strict mode](https://github.com/Microsoft/TypeScript/pull/11473): PR for the feature
++ [Fix #10758 Add compiler option to parse in strict mode](https://github.com/Microsoft/TypeScript/pull/11473): Pull request; introducing `alwaysStrict` compiler option
 
 Problems:
 
-+ ~~[How do I enable strict mode in TypeScript?](https://github.com/Microsoft/TypeScript/issues/4270)~~: Solved by `alwaysStrict` option
-+ ~~[Suggestion: Add a "forceStrictMode" compiler option](https://github.com/Microsoft/TypeScript/issues/7209)~~: Feature request for a compiler option of strict mode; solved by `alwaysStrict` option
++ ~~[How do I enable strict mode in TypeScript?](https://github.com/Microsoft/TypeScript/issues/4270)~~: Solved by `alwaysStrict` compiler option
++ ~~[Suggestion: Add a "forceStrictMode" compiler option](https://github.com/Microsoft/TypeScript/issues/7209)~~: Feature request; solved by `alwaysStrict` compiler option
 
 
 ## Type System
@@ -28,7 +28,7 @@ Description: TODO
 Links:
 
 + [Covariance / Contravariance Annotations](https://github.com/Microsoft/TypeScript/issues/1394): Officially raised problem
-+ [Proposal: covariance and contravariance generic type arguments annotations](https://github.com/Microsoft/TypeScript/issues/10717): PR for the feature
++ [Proposal: covariance and contravariance generic type arguments annotations](https://github.com/Microsoft/TypeScript/issues/10717): Pull request
 + [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Added to backlog
 + [Unavoidable Type System Design limitation?](https://github.com/Microsoft/TypeScript/issues/14656): Union type with generics
 + [add `in`, `out` modifiers to allow being specific of expected contrvariant/covariant type parameters](https://github.com/Microsoft/TypeScript/issues/8137): Duplicated proposal
@@ -49,19 +49,27 @@ Problems:
 
 Links:
 
-+ [Always use literal types](https://github.com/Microsoft/TypeScript/pull/10676): Determine type from expression, difference between let and const
++ [Always use literal types](https://github.com/Microsoft/TypeScript/pull/10676): TypeScript 2.1; determine type from expression, difference between let and const
 + [Non-widening explicit literal types](https://github.com/Microsoft/TypeScript/pull/11126)
 
 Problems:
 
++ ~~[Suggestion: Type Property type](https://github.com/Microsoft/TypeScript/issues/1295)~~: Feature request; solved by `keyof` operator
 + [Should not widen in type argument inference](https://github.com/Microsoft/TypeScript/issues/1436)
 + [Literal type not inferred correctly when using generics](https://github.com/Microsoft/TypeScript/issues/10685)
+
+### Generics
+
+Links:
+
++ [Adds support for type parameter defaults](https://github.com/Microsoft/TypeScript/pull/13487): Pull request
++ [Design Meeting Notes, 1/20/2017](https://github.com/Microsoft/TypeScript/issues/13607): Design notes
 
 ### Nullable Typing
 
 Links:
 
-+ [Non-nullable types](https://github.com/Microsoft/TypeScript/pull/7140): PR for the feature
++ [Non-nullable types](https://github.com/Microsoft/TypeScript/pull/7140): Pull request
 + [[Request for feedback] Nullable types, `null` and `undefined`](https://github.com/Microsoft/TypeScript/issues/7426): Official discussion
 + [Design Meeting Notes for 3/11/2016](https://github.com/Microsoft/TypeScript/issues/7488): Mentioned about non-nullable types
 
@@ -74,7 +82,7 @@ Problems:
 Links:
 
 + [Built-in support for UMD module definitions](https://github.com/Microsoft/TypeScript/issues/7125): Officially raised problem
-+ [UMD support](https://github.com/Microsoft/TypeScript/pull/7264): PR for the feature
++ [UMD support](https://github.com/Microsoft/TypeScript/pull/7264): Pull request
 + [Library include directives](https://github.com/Microsoft/TypeScript/issues/7156): Officially raised problem
 + [Support reference library directives in tsc](https://github.com/Microsoft/TypeScript/pull/7263): PR for the feature
 + [Design Meeting Notes for 3/11/2016](https://github.com/Microsoft/TypeScript/issues/7488): Mentioned about UMD module support and library include directives
@@ -93,8 +101,8 @@ Links:
 
 Problems:
 
-+ ~~[Allow to run TypeScript (Compiler, Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/9449)~~: Bug report; fixed already
-+ ~~[Allow to run TypeScript (Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/10755)~~: Bug report; fixed already
++ ~~[Allow to run TypeScript (Compiler, Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/9449)~~: Bug; fixed
++ ~~[Allow to run TypeScript (Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/10755)~~: Bug; fixed
 
 
 ## Problems
