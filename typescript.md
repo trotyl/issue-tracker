@@ -89,14 +89,18 @@ Links:
 
 + [Add spread/rest types to support proposed object spread/rest](https://github.com/Microsoft/TypeScript/issues/10727): Official tracker
 
+Problems:
+
++ [Proposal: Allow exclusive unions using logical or (^) operator between types](https://github.com/Microsoft/TypeScript/issues/14094): Feature request; can be solved by Rest type
+
 ## Module System
 
 Links:
 
 + [Built-in support for UMD module definitions](https://github.com/Microsoft/TypeScript/issues/7125): Official tracker
 + [UMD support](https://github.com/Microsoft/TypeScript/pull/7264): Pull request
-+ [Library include directives](https://github.com/Microsoft/TypeScript/issues/7156): Officially raised problem
-+ [Support reference library directives in tsc](https://github.com/Microsoft/TypeScript/pull/7263): PR for the feature
++ [Library include directives](https://github.com/Microsoft/TypeScript/issues/7156): Official tracker
++ [Support reference library directives in tsc](https://github.com/Microsoft/TypeScript/pull/7263): Pull request
 + [Design Meeting Notes for 3/11/2016](https://github.com/Microsoft/TypeScript/issues/7488): Mentioned about UMD module support and library include directives
 
 Problems:
