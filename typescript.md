@@ -2,7 +2,7 @@
 
 Collection of github issues and other documents for quick access.
 
-## Feature / Syntax
+## Syntax
 
 ## Semantics
 
@@ -10,24 +10,25 @@ Collection of github issues and other documents for quick access.
 
 Links:
 
-+ [Add compiler option to parse in strict mode](https://github.com/Microsoft/TypeScript/issues/10758)
++ [Add compiler option to parse in strict mode](https://github.com/Microsoft/TypeScript/issues/10758): Officially raised problem
++ [Fix #10758 Add compiler option to parse in strict mode](https://github.com/Microsoft/TypeScript/pull/11473): PR for the feature
 
 Problems:
 
-+ [How do I enable strict mode in TypeScript?](https://github.com/Microsoft/TypeScript/issues/4270): Solved by `alwaysStrict` option
++ ~~[How do I enable strict mode in TypeScript?](https://github.com/Microsoft/TypeScript/issues/4270)~~: Solved by `alwaysStrict` option
++ ~~[Suggestion: Add a "forceStrictMode" compiler option](https://github.com/Microsoft/TypeScript/issues/7209)~~: Feature request for a compiler option of strict mode; solved by `alwaysStrict` option
+
 
 ## Type System
 
 ### Variance / Covariance / Contravariance / Bivariance
 
-Title in Chinese: 可变性／协变／逆变／互变
-
 Description: TODO
 
 Links:
 
-+ [Covariance / Contravariance Annotations](https://github.com/Microsoft/TypeScript/issues/1394): Original problem
-+ [Proposal: covariance and contravariance generic type arguments annotations](https://github.com/Microsoft/TypeScript/issues/10717): Proposal in detail
++ [Covariance / Contravariance Annotations](https://github.com/Microsoft/TypeScript/issues/1394): Officially raised problem
++ [Proposal: covariance and contravariance generic type arguments annotations](https://github.com/Microsoft/TypeScript/issues/10717): PR for the feature
 + [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Added to backlog
 + [Unavoidable Type System Design limitation?](https://github.com/Microsoft/TypeScript/issues/14656): Union type with generics
 + [add `in`, `out` modifiers to allow being specific of expected contrvariant/covariant type parameters](https://github.com/Microsoft/TypeScript/issues/8137): Duplicated proposal
@@ -45,8 +46,6 @@ Problems:
 + [--strictNullChecks does not gaurd against optional arguments assignment](https://github.com/Microsoft/TypeScript/issues/9450): Can be solved by variance
 
 ### Type Inference
-
-Title in Chinese: 类型推理
 
 Links:
 
@@ -94,15 +93,13 @@ Links:
 
 Problems:
 
-+ [Allow to run TypeScript (Compiler, Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/9449)
-+ [Allow to run TypeScript (Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/10755)
++ ~~[Allow to run TypeScript (Compiler, Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/9449)~~: Bug report; fixed already
++ ~~[Allow to run TypeScript (Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/10755)~~: Bug report; fixed already
 
 
 ## Problems
 
 ### Type Safety
-
-Title in Chinese: 类型安全
 
 Links:
 
