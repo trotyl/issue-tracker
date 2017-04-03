@@ -17,7 +17,7 @@ Problems:
 
 + ~~[How do I enable strict mode in TypeScript?](https://github.com/Microsoft/TypeScript/issues/4270)~~: Puzzle; solved by `alwaysStrict` compiler option
 + ~~[Suggestion: Add a "forceStrictMode" compiler option](https://github.com/Microsoft/TypeScript/issues/7209)~~: Feature request; solved by `alwaysStrict` compiler option
-+ ~~[Warn when a subset of input files have "use strict" with --outFile](https://github.com/Microsoft/TypeScript/issues/11464)~~: Puzzile; solved by `alwaysStrict` compiler option
++ ~~[Warn when a subset of input files have "use strict" with --outFile](https://github.com/Microsoft/TypeScript/issues/11464)~~: Puzzle; solved by `alwaysStrict` compiler option
 
 
 ## Type System
