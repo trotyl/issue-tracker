@@ -10,14 +10,31 @@ Problems:
 
 + ~~[ES6 Generator support](https://github.com/Microsoft/TypeScript/issues/1564)~~: Feature request; solved by generator support in 2.3
 
+### Other
+
+Links:
+
++ [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Design notes
+
+Problems:
+
++ ~~[Suggestion: use `:{type}` to omit formal parameter when declare function interface or something else](https://github.com/Microsoft/TypeScript/issues/10984)~~: Feature request; declined
+
 ## Semantics
+
+### Generator
+
+Problems:
+
++ ~~[emit generators when targeting es5](https://github.com/Microsoft/TypeScript/issues/14903)~~: Feature request; closed as duplicate; solved by `downlevelIteration` compiler option in 2.3
 
 ### Strict Mode
 
 Links:
 
 + [Add compiler option to parse in strict mode](https://github.com/Microsoft/TypeScript/issues/10758): Official tracker
-+ [Fix #10758 Add compiler option to parse in strict mode](https://github.com/Microsoft/TypeScript/pull/11473): Pull request; introducing `alwaysStrict` compiler option
++ [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Design notes
++ [Fix #10758 Add compiler option to parse in strict mode](https://github.com/Microsoft/TypeScript/issues/11473): Pull request; introducing `alwaysStrict` compiler option
 
 Problems:
 
@@ -25,6 +42,11 @@ Problems:
 + ~~[Suggestion: Add a "forceStrictMode" compiler option](https://github.com/Microsoft/TypeScript/issues/7209)~~: Feature request; solved by `alwaysStrict` compiler option in 2.3
 + ~~[Warn when a subset of input files have "use strict" with --outFile](https://github.com/Microsoft/TypeScript/issues/11464)~~: Puzzle; solved by `alwaysStrict` compiler option in 2.3
 
+### JSX
+
+Links:
+
++ [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Design notes
 
 ## Type System
 
@@ -50,7 +72,8 @@ Problems:
 + [Proposal: covariance and contravariance generic type arguments annotations](https://github.com/Microsoft/TypeScript/issues/10717): Feature request
 + [Variance error not caught by the type system](https://github.com/Microsoft/TypeScript/issues/14524): Puzzle; about array generics
 + [Unavoidable Type System Design limitation?](https://github.com/Microsoft/TypeScript/issues/14656): Puzzle; about union type with generics
-+ [No compile time error when passing wrong function object type](https://github.com/Microsoft/TypeScript/issues/14964): Puzzle; about function type variance
++ [Generic parameters not fully type-checked (e.g., Promise)](https://github.com/Microsoft/TypeScript/issues/14770): Puzzle
++ ~~[No compile time error when passing wrong function object type](https://github.com/Microsoft/TypeScript/issues/14964)~~: Puzzle; closed as duplicate
 
 ### Type Inference
 
@@ -66,9 +89,14 @@ Problems:
 
 ### Dynamic Typing
 
+Links:
+
++ [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Design notes
+
 Problems:
 
 + ~~[Suggestion: Type Property type](https://github.com/Microsoft/TypeScript/issues/1295)~~: Feature request; solved by `keyof` operator
++ ~~[Ability to skip elements in tuple type annotation](https://github.com/Microsoft/TypeScript/issues/2671)~~: Feature request; declined
 
 ### Generics
 
@@ -83,8 +111,12 @@ Links:
 
 + [Non-nullable types](https://github.com/Microsoft/TypeScript/pull/7140): Pull request
 + [[Request for feedback] Nullable types, `null` and `undefined`](https://github.com/Microsoft/TypeScript/issues/7426): Official discussion
-+ [Design Meeting Notes for 3/11/2016](https://github.com/Microsoft/TypeScript/issues/7488): Mentioned about non-nullable types
-+ [Guidelines for choosing between `null` and `undefined` with `strictNullChecks`](https://github.com/Microsoft/TypeScript/issues/9653): Official tracker
++ [Design Meeting Notes for 3/11/2016](https://github.com/Microsoft/TypeScript/issues/7488): Design notes; mentioned about non-nullable types
++ [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Design notes
+
+Problems:
+
++ ~~[Guidelines for choosing between `null` and `undefined` with `strictNullChecks`](https://github.com/Microsoft/TypeScript/issues/9653)~~: Puzzle
 
 
 ### Spread/Rest Types
@@ -95,21 +127,31 @@ Links:
 
 Problems:
 
-+ [Proposal: Allow exclusive unions using logical or (^) operator between types](https://github.com/Microsoft/TypeScript/issues/14094): Feature request; can be solved by Rest type
++ ~~[No compile error with Object.assign](https://github.com/Microsoft/TypeScript/issues/6689)~~: Puzzle; closed as duplicate
++ [Proposal: Allow exclusive unions using logical or (^) operator between types](https://github.com/Microsoft/TypeScript/issues/14094): Feature request; can be solved by `rest` type in future
+
+### Code Flow Analysis
+
+Links:
+
++ [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Design notes
+
 
 ## Module System
 
 Links:
 
 + [Built-in support for UMD module definitions](https://github.com/Microsoft/TypeScript/issues/7125): Official tracker
-+ [UMD support](https://github.com/Microsoft/TypeScript/pull/7264): Pull request
 + [Library include directives](https://github.com/Microsoft/TypeScript/issues/7156): Official tracker
 + [Support reference library directives in tsc](https://github.com/Microsoft/TypeScript/pull/7263): Pull request
++ [UMD support](https://github.com/Microsoft/TypeScript/pull/7264): Pull request
 + [Design Meeting Notes for 3/11/2016](https://github.com/Microsoft/TypeScript/issues/7488): Mentioned about UMD module support and library include directives
++ [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Design notes
 
 Problems:
 
-+ ['--alwaysStrict' option should not 'use strict' declaration if setting with module=es2015](https://github.com/Microsoft/TypeScript/issues/11806): Unnecessary 'use strict' in output
++ ~~[Do not emit files with no statments](https://github.com/Microsoft/TypeScript/issues/10908)~~: Puzzle; working as intended
++ ~~['--alwaysStrict' option should not 'use strict' declaration if setting with module=es2015](https://github.com/Microsoft/TypeScript/issues/11806)~~: Bug; fixed in 2.1.4
 
 ## Compatability
 
@@ -124,6 +166,21 @@ Problems:
 + ~~[Allow to run TypeScript (Compiler, Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/9449)~~: Bug; fixed in 2.0
 + ~~[Allow to run TypeScript (Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/10755)~~: Bug; fixed in 2.1
 
+## Configuration
+
+Links:
+
++ [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Design notes
+
+Problems:
+
++ [Interactive init](https://github.com/Microsoft/TypeScript/issues/10964): Feature request
+
+## Performance
+
+Links:
+
++ [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Design notes
 
 ## Problems
 
@@ -131,7 +188,6 @@ Problems:
 
 Links:
 
-+ [No compile error with Object.assign](https://github.com/Microsoft/TypeScript/issues/6689): Type merge
 + [Allow `super` constrains for type parameters](https://github.com/Microsoft/TypeScript/issues/7265)
 
 ### React Typing
