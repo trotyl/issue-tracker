@@ -67,6 +67,7 @@ Problems:
 + [Covariance / Contravariance Annotations](https://github.com/Microsoft/TypeScript/issues/1394)
 + [allow a flag that turns off covariant parameters when checking function assignability](https://github.com/Microsoft/TypeScript/issues/6102): Feature request
 + [Functions passed as an argument to other functions are not type checked as expected](https://github.com/Microsoft/TypeScript/issues/6333): Puzzle; about string allowed as object
++ ~~[Allow `super` constrains for type parameters](https://github.com/Microsoft/TypeScript/issues/7265)~~: Feature request; closed as duplicate; can be solved by variance in future
 + [add `in`, `out` modifiers to allow being specific of expected contrvariant/covariant type parameters](https://github.com/Microsoft/TypeScript/issues/8137): Feature request; duplicated
 + [--strictNullChecks does not gaurd against optional arguments assignment](https://github.com/Microsoft/TypeScript/issues/9450): Puzzle
 + [Proposal: covariance and contravariance generic type arguments annotations](https://github.com/Microsoft/TypeScript/issues/10717): Feature request
@@ -95,8 +96,13 @@ Links:
 
 Problems:
 
-+ ~~[Suggestion: Type Property type](https://github.com/Microsoft/TypeScript/issues/1295)~~: Feature request; solved by `keyof` operator
++ ~~[Suggestion: Type Property type](https://github.com/Microsoft/TypeScript/issues/1295)~~: Feature request; solved by `keyof` operator in 2.0
 + ~~[Ability to skip elements in tuple type annotation](https://github.com/Microsoft/TypeScript/issues/2671)~~: Feature request; declined
++ ~~[Sub-type type](https://github.com/Microsoft/TypeScript/issues/6218)~~: Puzzle; solved by `Partial` type in 2.0
++ ~~[More accurate typing of Object.assign and React component setState()](https://github.com/Microsoft/TypeScript/issues/6613)~~: Puzzle; solved by `Partial` type in 2.0
++ ~~[For a given type, derive a new type where all the properties specified in the original type are optional](https://github.com/Microsoft/TypeScript/issues/7355)~~: Puzzle; solved by `Partial` type in 2.0
++ ~~[React.d.ts type constrained definition for React.Component's setState method](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/7987)~~: Puzzle; solved by `Partial` type in 2.0
++ ~~[Subset types for easier updating of immutable structures](https://github.com/Microsoft/TypeScript/issues/10803)~~: Puzzle; solved by `Partial` type in 2.0
 
 ### Generics
 
@@ -181,23 +187,3 @@ Problems:
 Links:
 
 + [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Design notes
-
-## Problems
-
-### Type Safety
-
-Links:
-
-+ [Allow `super` constrains for type parameters](https://github.com/Microsoft/TypeScript/issues/7265)
-
-### React Typing
-
-Links: 
-
-+ [Sub-type type](https://github.com/Microsoft/TypeScript/issues/6218): Solved by partial type
-+ [React.d.ts type constrained definition for React.Component's setState method](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/7987): Solved by partial type
-+ [Support Pick<> on setState now that TS 2.1 is out](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/13155)
-+ [More accurate typing of Object.assign and React component setState()](https://github.com/Microsoft/TypeScript/issues/6613): Solved by partial type
-+ [Subset types for easier updating of immutable structures](https://github.com/Microsoft/TypeScript/issues/10803)
-+ [For a given type, derive a new type where all the properties specified in the original type are optional](https://github.com/Microsoft/TypeScript/issues/7355): Solved by partial type
-
