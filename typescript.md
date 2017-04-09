@@ -8,6 +8,7 @@ Collection of github issues and other documents for quick access.
 
 Problems:
 
++ ~~[Partial classes](https://github.com/Microsoft/TypeScript/issues/563)~~: Feature request; out of scope
 + ~~[ES6 Generator support](https://github.com/Microsoft/TypeScript/issues/1564)~~: Feature request; solved by generator support in 2.3
 
 ### Other
