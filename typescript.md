@@ -4,6 +4,10 @@ Collection of github issues and other documents for quick access.
 
 ## Syntax
 
+### Enum
+
++ [Allow enums of types other than number](https://github.com/Microsoft/TypeScript/issues/1206): Feature request
+
 ### Generator
 
 Problems:
