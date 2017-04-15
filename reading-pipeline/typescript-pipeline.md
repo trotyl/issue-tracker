@@ -9,7 +9,7 @@ https://github.com/Microsoft/TypeScript/issues/563    Y
 https://github.com/Microsoft/TypeScript/issues/574
 https://github.com/Microsoft/TypeScript/issues/1003
 https://github.com/Microsoft/TypeScript/issues/1108
-https://github.com/Microsoft/TypeScript/issues/1206
+https://github.com/Microsoft/TypeScript/issues/1206   Y
 https://github.com/Microsoft/TypeScript/issues/1213
 https://github.com/Microsoft/TypeScript/issues/1268
 https://github.com/Microsoft/TypeScript/issues/1295   Y
