@@ -192,3 +192,7 @@ Problems:
 Links:
 
 + [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Design notes
+
+Problems:
+
++ [Strategies for improving incremental Check time?](https://github.com/Microsoft/TypeScript/issues/13538): Puzzle
