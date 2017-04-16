@@ -17,6 +17,7 @@ Problems:
 Problems:
 
 + [Proposal: int types](https://github.com/Microsoft/TypeScript/issues/4639): Feature request
++ [Support for TC39 "Integer: Arbitrary precision integers in JavaScript" proposal](https://github.com/Microsoft/TypeScript/issues/15096): Feature request
 
 ### Enum
 
