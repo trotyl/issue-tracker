@@ -87,6 +87,7 @@ https://github.com/Microsoft/TypeScript/issues/8597
 https://github.com/Microsoft/TypeScript/issues/9102
 https://github.com/Microsoft/TypeScript/issues/9175
 https://github.com/Microsoft/TypeScript/issues/9199
+https://github.com/Microsoft/TypeScript/issues/9202   Y
 https://github.com/Microsoft/TypeScript/issues/9351
 https://github.com/Microsoft/TypeScript/issues/9408
 https://github.com/Microsoft/TypeScript/issues/9449

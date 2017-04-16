@@ -174,6 +174,7 @@ Links:
 
 Problems:
 
++ ~~[Suggestion: Compilation targets other than JavaScript](https://github.com/Microsoft/TypeScript/issues/9202)~~: Feature request; out of scope
 + ~~[Allow to run TypeScript (Compiler, Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/9449)~~: Bug; fixed in 2.0
 + ~~[Allow to run TypeScript (Services) in strict mode](https://github.com/Microsoft/TypeScript/issues/10755)~~: Bug; fixed in 2.1
 
