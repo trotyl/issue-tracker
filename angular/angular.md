@@ -25,13 +25,19 @@ Links:
 
 Problems:
 
-+ [Angular 4 fails to provide MockBackend](https://github.com/angular/angular/issues/15521): Bug
++ [Angular 4 fails to provide MockBackend](https://github.com/angular/angular/issues/15521): Bug; regression in 4.0
 
 ## Router
 
 Problems:
 
-+ [RouterLinkActive causes `Maximum call stack size` error when wrapped in `ng-template`](https://github.com/angular/angular/issues/15825): Bug; fix in progress
++ [RouterLinkActive causes `Maximum call stack size` error when wrapped in `ng-template`](https://github.com/angular/angular/issues/15825): Bug; regression in 4.0; fix in progress;
+
+## Animations
+
+Problems:
+
++ [Angular 4.0.0 animations](https://github.com/angular/angular/issues/15507): Bug; regression in 4.0; fix in progress
 
 ## Build
 
