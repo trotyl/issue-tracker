@@ -1,10 +1,18 @@
 # Angular Issue Tracker
 
-## Change Detection
+## Core
 
-Problems
+### Change Detection
+
+Problems:
 
 + [Projected templates do not update when using ChangeDetectionStrategy.OnPush](https://github.com/angular/angular/issues/16012): Bug; needs confirmation
+
+### Dependency Injection
+
+Problems:
+
++ [Structural Directive's provides are no longer available in template as of Angular 4.0](https://github.com/angular/angular/issues/15998): Puzzle; working as intended
 
 ## Build
 
