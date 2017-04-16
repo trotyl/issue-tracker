@@ -4,6 +4,8 @@ Collection of github issues and other documents for quick access.
 
 ## Syntax
 
+Description: whatever relevant to new syntax with runtime effects
+
 ### Enum
 
 + [Allow enums of types other than number](https://github.com/Microsoft/TypeScript/issues/1206): Feature request
@@ -26,6 +28,8 @@ Problems:
 + ~~[Suggestion: use `:{type}` to omit formal parameter when declare function interface or something else](https://github.com/Microsoft/TypeScript/issues/10984)~~: Feature request; declined
 
 ## Semantics
+
+Description: those unrelevant to syntax change but have effect on runtime behaviour
 
 ### Generator
 
@@ -54,6 +58,8 @@ Links:
 + [Suggestion Backlog Slog, 9/26/2016](https://github.com/Microsoft/TypeScript/issues/11215): Design notes
 
 ## Type System
+
+Description: type checking behaviour with no runtime impact
 
 ### Variance / Covariance / Contravariance / Bivariance
 
