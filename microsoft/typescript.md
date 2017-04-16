@@ -6,7 +6,21 @@ Collection of github issues and other documents for quick access.
 
 Description: whatever relevant to new syntax with runtime effects
 
+### Class
+
+Problems:
+
++ ~~[Partial classes](https://github.com/Microsoft/TypeScript/issues/563)~~: Feature request; out of scope
+
+### Integer
+
+Problems:
+
++ [Proposal: int types](https://github.com/Microsoft/TypeScript/issues/4639): Feature request
+
 ### Enum
+
+Problems:
 
 + [Allow enums of types other than number](https://github.com/Microsoft/TypeScript/issues/1206): Feature request
 
@@ -14,10 +28,9 @@ Description: whatever relevant to new syntax with runtime effects
 
 Problems:
 
-+ ~~[Partial classes](https://github.com/Microsoft/TypeScript/issues/563)~~: Feature request; out of scope
 + ~~[ES6 Generator support](https://github.com/Microsoft/TypeScript/issues/1564)~~: Feature request; solved by generator support in 2.3
 
-### Other
+### Type Annotation
 
 Links:
 

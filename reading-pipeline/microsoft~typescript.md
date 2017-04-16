@@ -1,6 +1,7 @@
 https://github.com/Microsoft/TypeScript/issues/9
 https://github.com/Microsoft/TypeScript/issues/12
 https://github.com/Microsoft/TypeScript/issues/16
+https://github.com/Microsoft/TypeScript/issues/195
 https://github.com/Microsoft/TypeScript/issues/311
 https://github.com/Microsoft/TypeScript/issues/338
 https://github.com/Microsoft/TypeScript/issues/394
@@ -38,6 +39,9 @@ https://github.com/Microsoft/TypeScript/issues/3922
 https://github.com/Microsoft/TypeScript/issues/3964
 https://github.com/Microsoft/TypeScript/issues/3975
 https://github.com/Microsoft/TypeScript/issues/4270   Y
+https://github.com/Microsoft/TypeScript/issues/4372
+https://github.com/Microsoft/TypeScript/issues/4373
+https://github.com/Microsoft/TypeScript/issues/4639
 https://github.com/Microsoft/TypeScript/issues/4753
 https://github.com/Microsoft/TypeScript/issues/4889
 https://github.com/Microsoft/TypeScript/issues/4890
@@ -78,6 +82,7 @@ https://github.com/Microsoft/TypeScript/issues/7698
 https://github.com/Microsoft/TypeScript/issues/7706
 https://github.com/Microsoft/TypeScript/issues/7722
 https://github.com/Microsoft/TypeScript/issues/7730
+https://github.com/Microsoft/TypeScript/issues/7982
 https://github.com/Microsoft/TypeScript/issues/8017
 https://github.com/Microsoft/TypeScript/issues/8020
 https://github.com/Microsoft/TypeScript/issues/8054
@@ -192,6 +197,7 @@ https://github.com/Microsoft/TypeScript/issues/13538
 https://github.com/Microsoft/TypeScript/issues/13588
 https://github.com/Microsoft/TypeScript/issues/13604
 https://github.com/Microsoft/TypeScript/issues/13611
+https://github.com/Microsoft/TypeScript/issues/13642
 https://github.com/Microsoft/TypeScript/issues/13705
 https://github.com/Microsoft/TypeScript/issues/13721
 https://github.com/Microsoft/TypeScript/issues/13778
@@ -205,9 +211,11 @@ https://github.com/Microsoft/TypeScript/issues/14094  Y
 https://github.com/Microsoft/TypeScript/issues/14142
 https://github.com/Microsoft/TypeScript/issues/14267
 https://github.com/Microsoft/TypeScript/issues/14417
+https://github.com/Microsoft/TypeScript/issues/14490
 https://github.com/Microsoft/TypeScript/issues/14548
 https://github.com/Microsoft/TypeScript/issues/14600
 https://github.com/Microsoft/TypeScript/issues/14634
+https://github.com/Microsoft/TypeScript/issues/14745
 https://github.com/Microsoft/TypeScript/issues/14762
 https://github.com/Microsoft/TypeScript/issues/14764
 https://github.com/Microsoft/TypeScript/issues/14770  Y
@@ -216,3 +224,4 @@ https://github.com/Microsoft/TypeScript/issues/14913
 https://github.com/Microsoft/TypeScript/issues/14964  Y
 https://github.com/Microsoft/TypeScript/issues/14965
 https://github.com/Microsoft/TypeScript/issues/14990  Y
+https://github.com/Microsoft/TypeScript/issues/15096
