@@ -21,6 +21,10 @@ Links:
 
 + [Tracking: Template type checker](https://github.com/angular/angular/issues/15988): Official tracker
 
+Problems:
+
++ [Could not load the summary for directive](https://github.com/angular/angular/issues/15506): Bug; regression in 4.0
+
 ## Http
 
 Problems:
