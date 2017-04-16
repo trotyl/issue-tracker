@@ -21,6 +21,12 @@ Links:
 
 + [Tracking: Template type checker](https://github.com/angular/angular/issues/15988): Official tracker
 
+## Router
+
+Problems:
+
++ [RouterLinkActive causes `Maximum call stack size` error when wrapped in `ng-template`](https://github.com/angular/angular/issues/15825): Bug; fix in progress
+
 ## Build
 
 Problems:
