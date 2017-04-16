@@ -42,6 +42,7 @@ Problems:
 
 Problems:
 
++ [[@state]="true|false" should translate to "true" or "1" and "false" or "0"](https://github.com/angular/angular/issues/15433): Bug; regression in 4.0
 + [Angular 4.0.0 animations](https://github.com/angular/angular/issues/15507): Bug; regression in 4.0; fix in progress
 
 ## Build
