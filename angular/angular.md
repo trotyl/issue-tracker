@@ -36,7 +36,8 @@ Problems:
 
 Problems:
 
-+ [RouterLinkActive causes `Maximum call stack size` error when wrapped in `ng-template`](https://github.com/angular/angular/issues/15825): Bug; regression in 4.0; fix in progress;
++ [<a href="#"></a> doesn't work as expected after upgrading to angular 2.2.0](https://github.com/angular/angular/issues/12945): Bug; regression in 2.2; fix in progress
++ [RouterLinkActive causes `Maximum call stack size` error when wrapped in `ng-template`](https://github.com/angular/angular/issues/15825): Bug; regression in 4.0; fix in progress
 
 ## Animations
 
