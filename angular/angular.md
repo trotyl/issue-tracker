@@ -1,5 +1,11 @@
 # Angular Issue Tracker
 
+## Change Detection
+
+Problems
+
++ [Projected templates do not update when using ChangeDetectionStrategy.OnPush](https://github.com/angular/angular/issues/16012): Bug; needs confirmation
+
 ## Build
 
 Problems:
