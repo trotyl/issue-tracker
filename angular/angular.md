@@ -4,7 +4,13 @@
 
 Problems:
 
-+ [SystemJS error trying to use BrowserAnimationsModule](https://github.com/angular/angular/issues/16027): Puzzle
++ [SystemJS error trying to use BrowserAnimationsModule](https://github.com/angular/angular/issues/16027): Puzzle; needs confirmation
+
+## Compatibility
+
+Problems:
+
++ [Angular compiler - custom decorators does not work with AOT build](https://github.com/angular/angular/issues/16023): Puzzle; needs confirmation
 
 ## Testing
 
