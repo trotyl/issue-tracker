@@ -25,6 +25,7 @@ Links:
 
 Problems:
 
++ [Request dependency <=2.68 opens to potential memory exposure vulnerability](https://github.com/angular/angular/issues/10352): Bug; security vulnerability
 + [SystemJS error trying to use BrowserAnimationsModule](https://github.com/angular/angular/issues/16027): Puzzle; needs confirmation
 
 ## Compatibility
