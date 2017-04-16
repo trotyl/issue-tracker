@@ -21,6 +21,12 @@ Links:
 
 + [Tracking: Template type checker](https://github.com/angular/angular/issues/15988): Official tracker
 
+## Http
+
+Problems:
+
++ [Angular 4 fails to provide MockBackend](https://github.com/angular/angular/issues/15521): Bug
+
 ## Router
 
 Problems:
