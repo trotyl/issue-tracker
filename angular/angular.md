@@ -6,6 +6,7 @@
 
 Problems:
 
++ [ExpressionChangedAfterItHasBeenCheckedError when changing a component 'non model' value in afterViewInit](https://github.com/angular/angular/issues/15464): Puzzle; working as intended
 + [Projected templates do not update when using ChangeDetectionStrategy.OnPush](https://github.com/angular/angular/issues/16012): Bug; needs confirmation
 
 ### Dependency Injection
