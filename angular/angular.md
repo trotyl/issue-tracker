@@ -13,6 +13,7 @@ Problems:
 Problems:
 
 + [Eager providers and Injector.get() can cause errors](https://github.com/angular/angular/issues/15501): Bug; regression in 4.0
++ ~~["Can't resolve all parameters for X" only when component is referenced in a routing module](https://github.com/angular/angular/issues/15627)~~: Puzzle; needs confirmation
 + [Missing Providers don't log helpful error messages in ng test](https://github.com/angular/angular/issues/15985): Bug
 + [Structural Directive's provides are no longer available in template as of Angular 4.0](https://github.com/angular/angular/issues/15998): Puzzle; working as intended
 
@@ -52,7 +53,7 @@ Problems:
 Problems:
 
 + [Request dependency <=2.68 opens to potential memory exposure vulnerability](https://github.com/angular/angular/issues/10352): Bug; security vulnerability
-+ [SystemJS error trying to use BrowserAnimationsModule](https://github.com/angular/angular/issues/16027): Puzzle; needs confirmation
++ ~~[SystemJS error trying to use BrowserAnimationsModule](https://github.com/angular/angular/issues/16027)~~: Puzzle; needs confirmation
 
 ## Compatibility
 
