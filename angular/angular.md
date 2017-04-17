@@ -26,6 +26,7 @@ Links:
 Problems:
 
 + [Could not load the summary for directive](https://github.com/angular/angular/issues/15506): Bug; regression in 4.0
++ [AOT on case insensitive file systems fails](https://github.com/angular/angular/issues/15767): Bug
 
 ## Http
 

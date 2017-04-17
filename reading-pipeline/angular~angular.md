@@ -12,6 +12,7 @@ https://github.com/angular/angular/issues/15501  Y
 https://github.com/angular/angular/issues/15506  Y
 https://github.com/angular/angular/issues/15507  Y
 https://github.com/angular/angular/issues/15521  Y
+https://github.com/angular/angular/issues/15571
 https://github.com/angular/angular/issues/15825  Y
 https://github.com/angular/angular/issues/15943
 https://github.com/angular/angular/issues/15973
