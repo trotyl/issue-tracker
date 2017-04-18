@@ -43,6 +43,7 @@ Problems:
 + ~~[CanDeactivate being called with null component and providers not being provided to new component](https://github.com/angular/angular/issues/15626)~~: Bug; regression in 4.0.1; fixed in 4.0.2
 + [RouterLinkActive causes `Maximum call stack size` error when wrapped in `ng-template`](https://github.com/angular/angular/issues/15825): Bug; regression in 4.0; fix in progress
 + [Router / Resolver stuck?](https://github.com/angular/angular/issues/15997): Puzzle
++ [Routing: Preserve trailing slash](https://github.com/angular/angular/issues/16051): Feature request
 + [ng2 path normalization doesn't work if query parameters are present](https://github.com/angular/angular/issues/16069): Puzzle; needs confirmation
 
 ## Animations
