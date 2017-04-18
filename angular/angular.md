@@ -72,5 +72,6 @@ Problems:
 
 + [Provide a mock service using TestBed](https://github.com/angular/angular/issues/10727): Puzzle
 + [Angular 4 test using whenStable hangs (worked in Angular 2)](https://github.com/angular/angular/issues/15486): Bug; needs confirmation; regression in 4.0;
++ [Testing - Async object not exists](https://github.com/angular/angular/issues/15889): Puzzle
 + [Clarify status of TestBed.override<X> methods](https://github.com/angular/angular/issues/16026): Puzzle
 
