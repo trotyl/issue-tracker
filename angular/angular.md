@@ -64,6 +64,7 @@ Problems:
 
 Problems:
 
++ ~~[Compiler-generated factory doesn't call 'new', which fails for ES6.](https://github.com/angular/angular/issues/14816)~~: Bug; closed for tracking
 + [Angular compiler - custom decorators does not work with AOT build](https://github.com/angular/angular/issues/16023): Puzzle; needs confirmation
 
 ## Testing

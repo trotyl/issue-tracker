@@ -3,7 +3,11 @@ https://github.com/angular/angular/issues/10352  Y
 https://github.com/angular/angular/issues/10727  Y
 https://github.com/angular/angular/issues/10787
 https://github.com/angular/angular/issues/12945  Y
+https://github.com/angular/angular/issues/14808
+https://github.com/angular/angular/issues/14816  Y
+https://github.com/angular/angular/issues/15127
 https://github.com/angular/angular/issues/15169
+https://github.com/angular/angular/issues/15325
 https://github.com/angular/angular/issues/15433  Y
 https://github.com/angular/angular/issues/15464  Y
 https://github.com/angular/angular/issues/15479
