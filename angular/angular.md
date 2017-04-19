@@ -18,6 +18,12 @@ Problems:
 + [Missing Providers don't log helpful error messages in ng test](https://github.com/angular/angular/issues/15985): Bug
 + [Structural Directive's provides are no longer available in template as of Angular 4.0](https://github.com/angular/angular/issues/15998): Puzzle; working as intended
 
+### Life-cycle Hooks
+
+Problems:
+
++ ~~[ViewChild not ready by ngAfterViewInit](https://github.com/angular/angular/issues/15100)~~: Puzzle; working as intended
+
 ## Compiler
 
 Links: 
