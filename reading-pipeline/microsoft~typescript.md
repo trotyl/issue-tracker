@@ -225,3 +225,4 @@ https://github.com/Microsoft/TypeScript/issues/14964  Y
 https://github.com/Microsoft/TypeScript/issues/14965
 https://github.com/Microsoft/TypeScript/issues/14990  Y
 https://github.com/Microsoft/TypeScript/issues/15096  Y
+https://github.com/Microsoft/TypeScript/issues/15209
