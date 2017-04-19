@@ -30,6 +30,12 @@ Problems:
 
 + ~~[Inheritance for Angular decorators is not well-defined](https://github.com/angular/angular/issues/11606)~~: Bug; fixed in 2.3
 
+### Renderer
+
+Problems:
+
++ [HTML5 datalist element's id property is not limited to the containing component's scope](https://github.com/angular/angular/issues/16142): Puzzle
+
 ## Compiler
 
 Links: 
