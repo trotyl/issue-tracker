@@ -24,6 +24,12 @@ Problems:
 
 + ~~[ViewChild not ready by ngAfterViewInit](https://github.com/angular/angular/issues/15100)~~: Puzzle; working as intended
 
+### Decorator / Annotation / Metadata
+
+Problems:
+
++ ~~[Inheritance for Angular decorators is not well-defined](https://github.com/angular/angular/issues/11606)~~: Bug; fixed in 2.3
+
 ## Compiler
 
 Links: 
