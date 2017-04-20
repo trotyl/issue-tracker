@@ -95,3 +95,9 @@ Problems:
 + ~~[Testing - Async object not exists](https://github.com/angular/angular/issues/15889)~~: Puzzle; issue of rxjs
 + [Clarify status of TestBed.override<X> methods](https://github.com/angular/angular/issues/16026): Puzzle
 
+## Branding
+
+Problems:
+
++ [Branding guide makes searching for Angular 2+ content difficult](https://github.com/angular/angular/issues/14802): Puzzle
+
