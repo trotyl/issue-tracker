@@ -45,6 +45,7 @@ https://github.com/angular/angular/issues/12945  Y
 https://github.com/angular/angular/issues/13387
 https://github.com/angular/angular/issues/13614
 https://github.com/angular/angular/issues/13670
+https://github.com/angular/angular/issues/14479
 https://github.com/angular/angular/issues/14802
 https://github.com/angular/angular/issues/14808
 https://github.com/angular/angular/issues/14816  Y
@@ -80,6 +81,18 @@ https://github.com/angular/angular/issues/16026  Y
 https://github.com/angular/angular/issues/16027  Y
 https://github.com/angular/angular/issues/16051  Y
 https://github.com/angular/angular/issues/16069  Y
+https://github.com/angular/angular/issues/16083  N
 https://github.com/angular/angular/issues/16134  N
 https://github.com/angular/angular/issues/16142  Y
+https://github.com/angular/angular/issues/16151
+https://github.com/angular/angular/issues/16152
+https://github.com/angular/angular/issues/16155
+https://github.com/angular/angular/issues/16157
+https://github.com/angular/angular/issues/16163
+https://github.com/angular/angular/issues/16164
+https://github.com/angular/angular/issues/16167
+https://github.com/angular/angular/issues/16169
 https://github.com/angular/angular/issues/16171
+https://github.com/angular/angular/issues/16173
+https://github.com/angular/angular/issues/16174
+https://github.com/angular/angular/issues/16181

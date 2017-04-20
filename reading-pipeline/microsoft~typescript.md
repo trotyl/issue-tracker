@@ -193,6 +193,7 @@ https://github.com/Microsoft/TypeScript/issues/13313
 https://github.com/Microsoft/TypeScript/issues/13470
 https://github.com/Microsoft/TypeScript/issues/13487
 https://github.com/Microsoft/TypeScript/issues/13513
+https://github.com/Microsoft/TypeScript/issues/13515
 https://github.com/Microsoft/TypeScript/issues/13538
 https://github.com/Microsoft/TypeScript/issues/13588
 https://github.com/Microsoft/TypeScript/issues/13604
