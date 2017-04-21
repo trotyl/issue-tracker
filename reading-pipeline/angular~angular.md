@@ -35,9 +35,11 @@ https://github.com/angular/angular/issues/11606  Y
 https://github.com/angular/angular/issues/11830
 https://github.com/angular/angular/issues/12063
 https://github.com/angular/angular/issues/12175
+https://github.com/angular/angular/issues/12200
 https://github.com/angular/angular/issues/12465
 https://github.com/angular/angular/issues/12485
 https://github.com/angular/angular/issues/12758
+https://github.com/angular/angular/issues/12867
 https://github.com/angular/angular/issues/12892
 https://github.com/angular/angular/issues/12920
 https://github.com/angular/angular/issues/12922
