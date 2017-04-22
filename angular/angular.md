@@ -59,6 +59,7 @@ Problems:
 
 + [&lt;a href="#"&gt;&lt;/a&gt; doesn't work as expected after upgrading to angular 2.2.0](https://github.com/angular/angular/issues/12945): Bug; regression in 2.2; fix in progress
 + ~~[CanDeactivate being called with null component and providers not being provided to new component](https://github.com/angular/angular/issues/15626)~~: Bug; regression in 4.0.1; fixed in 4.0.2
++ [Angular is ignoring withcredentials](https://github.com/angular/angular/issues/15805): Puzzle; needs confirmation
 + [RouterLinkActive causes `Maximum call stack size` error when wrapped in `ng-template`](https://github.com/angular/angular/issues/15825): Bug; regression in 4.0; fix in progress
 + [Router / Resolver stuck?](https://github.com/angular/angular/issues/15997): Puzzle
 + [Routing: Preserve trailing slash](https://github.com/angular/angular/issues/16051): Feature request
@@ -68,6 +69,7 @@ Problems:
 
 Problems:
 
++ ~~[[Feat] Allow to animate transitions between routes?](https://github.com/angular/angular/issues/9845)~~: Feature request; solved in 4.1
 + [[@state]="true|false" should translate to "true" or "1" and "false" or "0"](https://github.com/angular/angular/issues/15433): Bug; regression in 4.0
 + [Angular 4.0.0 animations](https://github.com/angular/angular/issues/15507): Bug; regression in 4.0; fix in progress
 
@@ -93,4 +95,10 @@ Problems:
 + [Angular 4 test using whenStable hangs (worked in Angular 2)](https://github.com/angular/angular/issues/15486): Bug; needs confirmation; regression in 4.0;
 + ~~[Testing - Async object not exists](https://github.com/angular/angular/issues/15889)~~: Puzzle; issue of rxjs
 + [Clarify status of TestBed.override<X> methods](https://github.com/angular/angular/issues/16026): Puzzle
+
+## Branding
+
+Problems:
+
++ [Branding guide makes searching for Angular 2+ content difficult](https://github.com/angular/angular/issues/14802): Puzzle
 
