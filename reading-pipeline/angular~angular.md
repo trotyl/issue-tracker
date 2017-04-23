@@ -72,12 +72,9 @@ https://github.com/angular/angular/issues/15521  Y
 https://github.com/angular/angular/issues/15626  Y
 https://github.com/angular/angular/issues/15627  Y
 https://github.com/angular/angular/issues/15571
-<<<<<<< HEAD
 https://github.com/angular/angular/issues/15762
-=======
 https://github.com/angular/angular/issues/15804
 https://github.com/angular/angular/issues/15805  Y
->>>>>>> 3326f5d211a591aecffe031cd903800084ace535
 https://github.com/angular/angular/issues/15825  Y
 https://github.com/angular/angular/issues/15889  Y
 https://github.com/angular/angular/issues/15943
